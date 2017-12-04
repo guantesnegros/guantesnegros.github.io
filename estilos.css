@@ -49,3 +49,6 @@ body{padding: 0;margin: 0;font-family: Arial, Helvetica, sans-serif;}
         nav ul li a:active{
         background-color:white;
         color:#1e1e1e;}
+        
+        figure img#imginde{
+        width:100%;}
