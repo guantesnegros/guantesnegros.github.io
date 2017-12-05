@@ -88,4 +88,7 @@
         color:white;
         }
 
-        
+        table{
+        align:center;
+        border:1 solid black;
+        width:100%; }
