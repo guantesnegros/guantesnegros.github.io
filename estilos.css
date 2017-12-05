@@ -95,7 +95,8 @@
         width:100%;
         }
         tr{
-        height:5px;}
+        height:50%;}
         td{
+        text-align:center;
         border:1px solid black;
         width:33%;}
