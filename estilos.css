@@ -12,7 +12,7 @@
         p{
         text-align:left;
         color: #1e1e1e;
-        padding:30px 0 0 30px;
+        vertical-align:center;
         }
 
         img{
@@ -135,9 +135,10 @@
         height:45vh;}
 
         spam{
-        width:47%;
+        width:50vw;
         }
         
         .inline-block{
          display:inline-block;
+         width:50vw;
         }
