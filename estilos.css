@@ -70,7 +70,8 @@
         
         img#nosotros{
         width:100%;
-        height:auto;}
+        height:auto;
+        padding:0;}
         
         #texto{
         background-color:black;
@@ -81,6 +82,7 @@
         p#textonosotros{
         font-size:1.4em;
         margin:10px;
-        text-align:center;}
+        text-align:center;
+        }
 
         
