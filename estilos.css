@@ -89,8 +89,10 @@
         }
 
         table{
-        margin-top:35px;
+        margin-top:50px;
         align:center;
         border:1px solid black;
         width:100%;
         }
+        tr{
+        height:30%;}
