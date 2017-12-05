@@ -13,6 +13,7 @@
         text-align:left;
         color: #1e1e1e;
         vertical-align:center;
+        padding:35px;
         }
 
         img{
@@ -132,11 +133,12 @@
         width:33%;
         }
         section{
+        width:100%;
         height:45vh;
+        border-bottom:1px solid white;
         }
 
-        spam{
-        width:49vw;
+        spam{        
         margin:0;
         padding:0;
         }
@@ -144,6 +146,7 @@
         .inline-block{
          display:inline-block;
          width:49vw;
+         height:100%;
          margin:0;
          padding:0;
         }
