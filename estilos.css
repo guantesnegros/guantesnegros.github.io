@@ -81,7 +81,8 @@
 
         p#textonosotros{
         font-size:1.4em;
-        padding:0;
+        padding:20px;
+        margin:0;
         text-align:center;
         color:white;
         }
