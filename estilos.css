@@ -90,5 +90,6 @@
 
         table{
         align:center;
-        border:1 solid black;
-        width:100%; }
+        border:1px solid black;
+        width:100%;
+        height:auto;}
