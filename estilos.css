@@ -71,7 +71,7 @@
         img#nosotros{
         width:100%;
         height:85vh;
-        margin:0 0 -5px 0;
+        margin:0;
         }
         
         #texto{
@@ -84,7 +84,7 @@
 
         p#textonosotros{
         font-size:1.4em;
-        padding:20px;
+        padding:0;
         margin:0;
         text-align:center;
         color:white;
