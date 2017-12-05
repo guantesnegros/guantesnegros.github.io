@@ -58,10 +58,12 @@ body{padding: 0;margin: 0;font-family: Arial, Helvetica, sans-serif;}
         margin-top:25px;}
         
         p#textoindex{
+        display:inline-block;
         color:white;
         font-size:4em;
         font-family:helvetica;
-        margin:50px 0 0 30px;
+        margin:250px 0 0 0px;
+        padding:0 0 0 30px;
         text-align:left;
-        background: rgba(76, 175, 80, 0.3)
+        background: rgba(255, 255, 125, 0.3)
         }
