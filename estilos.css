@@ -49,14 +49,14 @@
         text-decoration: none;
         color: white;
         padding: 15px 10px 15px 10px;
-        border:1.5px solid #1e1e1e;
-        border-bottom:0px solid #1e1e1e;
+        border:1.5px solid #5C5C5C;
+        border-bottom:0px solid #5C5C5C;
         }
         
         nav ul li a:hover{
         border:1.5px solid white;
         background-color:white;
-        color:white;
+        color:#5C5C5C;
         }
       
         nav ul li a:active{
