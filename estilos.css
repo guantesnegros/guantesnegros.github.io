@@ -84,7 +84,7 @@
         }
         a#indexboton{
         color:red;
-        display:fixed;
+        position:fixed;
         top:200px;
         left:200px;}
 
