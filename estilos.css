@@ -21,7 +21,7 @@
         margin: 0px;
         padding:0px;
         width: 100%;
-        background-color: #1e1e1e;
+        background-color: #5C5C5C;
         }
 
         nav img.logo {
@@ -55,7 +55,7 @@
         
         nav ul li a:hover{
         border:1.5px solid white;
-        background-color:#2e2e2e;
+        background-color:white;
         color:white;
         }
       
