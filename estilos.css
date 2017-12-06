@@ -87,10 +87,13 @@
         position:fixed;
         top:200px;
         left:200px;
-        transform: rotate(7deg);
+        transform: rotate(-17deg);
         text-decoration:none;
-        font-size:1.5em;}
-
+        font-size:2em;}
+        
+        a#indexboton:hover , #indexboton:active{
+        font-size:2.5em;
+        }
         #figurenosotros{
         height:85vh;
         }
