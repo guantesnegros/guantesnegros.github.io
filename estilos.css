@@ -85,8 +85,8 @@
         a#indexboton{
         color:red;
         position:fixed;
-        top:150px;
-        right:200px;
+        top:100px;
+        right:100px;
         transform: rotate(17deg);
         text-decoration:none;
         font-size:2em;
