@@ -85,11 +85,12 @@
         a#indexboton{
         color:red;
         position:fixed;
-        top:200px;
-        left:200px;
-        transform: rotate(-17deg);
+        top:150px;
+        right:200px;
+        transform: rotate(17deg);
         text-decoration:none;
-        font-size:2em;}
+        font-size:2em;
+        float:right;}
         
         a#indexboton:hover , #indexboton:active{
         font-size:2.5em;
